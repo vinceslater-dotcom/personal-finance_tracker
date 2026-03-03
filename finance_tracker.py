@@ -24,6 +24,7 @@ def add_income(data):
     save_data(data)
     print("Income added successfully!")
 
+
 # execute the def
 if __name__ == "__main__":
     data = load_data()
